@@ -1,4 +1,4 @@
-```markdown
+
 # 🎯 Auto-Turret: Open-Source Autonomous Object Tracking System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -260,7 +260,7 @@ A. 3D Printed Version (Recommended)
    ```
    1. Mount tilt servo to pan_arm using M3 screws
    2. Attach tilt_bracket to servo horn
-   3. Mount camera_holder to tilt_bracket
+   3. Mount camera_holder tttiltbracket
    4. Adjust tension screw for smooth movement
    ```
    Camera Mounting:
