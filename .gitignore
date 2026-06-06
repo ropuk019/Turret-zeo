@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+logs/
+recordings/
+snapshots/
+data/
+*.log
+*.mp4
+*.avi
+models/*.pt
+!models/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Config with secrets
+config/secrets.yaml
+*.secret
+
+# Hardware specific
+servo_positions.cache
+calibration_backup.yaml
